@@ -3,6 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #ffffffb2;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 2px #88888825, -2px -2px 2px #88888825;
 }
 
 .logo {
